@@ -1,0 +1,49 @@
+{
+  "name": "medi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "browserslist": [
+    "> 1%",
+    "last 15 versions",
+    "firefox >= 4",
+    "safari 7",
+    "safari 8",
+    "IE 8",
+    "IE 9",
+    "IE 10",
+    "IE 11"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrToLKaH/MEDI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrToLKaH/MEDI/issues"
+  },
+  "homepage": "https://github.com/MrToLKaH/MEDI#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "browserslist": "^4.19.1",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-changed": "^4.0.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^4.0.1",
+    "gulp-file-include": "^2.3.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-sass": "^5.1.0",
+    "imagemin": "^8.0.1"
+  },
+  "dependencies": {
+    "gulp-imagemin": "^7.1.0",
+    "sass": "^1.45.2"
+  }
+}
